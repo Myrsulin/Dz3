@@ -4,14 +4,11 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:paddingHorizontal="16dp"
+    android:background="@color/black1"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     tools:context=".MainFragment_5">
 
 
-    <ImageView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:src="@drawable/ono5" />
 
     <Button
         android:id="@+id/btn_send5"

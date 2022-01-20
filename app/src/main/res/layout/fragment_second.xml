@@ -7,10 +7,6 @@
     android:paddingHorizontal="16dp"
     tools:context=".SecondFragment">
 
-    <ImageView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:src="@drawable/ono" />
 
     <Button
         android:id="@+id/btn_send2"

@@ -3,14 +3,11 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/black2"
     android:paddingHorizontal="16dp"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     tools:context=".ListFragment">
 
-    <ImageView
-        android:src="@drawable/ono_2"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"/>
 
 
     <Button
